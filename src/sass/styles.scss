@@ -6,7 +6,21 @@ footer{
     bottom: 0px;
     background-color: #38b4fcd3;
 }
-
+.App {
+    padding: 0px;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #f1e6c0d3;
+}
+header{
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: #38b4fcd3;
+    height: 60px;
+}
 .container{
     position: relative;
     height: 80%;
